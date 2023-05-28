@@ -1,0 +1,36 @@
+.container {
+    margin-top: 70px   ;
+    height: 500px ;
+    width: 500px ;
+    background-color: blue ;
+    display: flex ;
+    align-items: center ;
+    justify-content: center ;
+    flex-direction: column ;
+    position: relative;
+    top: 100px;
+}
+
+.phoneClass {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.emailClass {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.locationClass {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.chatClass {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
